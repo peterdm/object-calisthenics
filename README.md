@@ -2,17 +2,17 @@
 
 ## My implementation (please review)
 
-Source in [[src]]
+Source in https://github.com/peterdm/object-calisthenics/tree/master/src
 
 Constructed using Scala (my first Scala project -- pointers appreciated!)
 
 
-Tests in [[test]] 
+Tests in https://github.com/peterdm/object-calisthenics/tree/master/test
 
 Tested using Specs2 (also my first -- not using even 10% of it yet)
 
 
-Scaladoc in [[doc]]
+Scaladoc in https://github.com/peterdm/object-calisthenics/tree/master/doc
 
 
 ## Overview
