@@ -4,10 +4,11 @@
 
 [Read Scaladoc here](http://peterdm.github.io/object-calisthenics) 
 
-Scala Source in [/src](https://github.com/peterdm/object-calisthenics/tree/master/src)
-___Constructed using Scala (my first Scala project -- pointers appreciated!)__
+Scala Source in [/src](https://github.com/peterdm/object-calisthenics/tree/master/src) 
+_Constructed using Scala (my first Scala project -- pointers appreciated!)_
 
 Specs2 Tests in [/test](https://github.com/peterdm/object-calisthenics/tree/master/test)
+_(Anyone a Specs2 expert?  I'm only using about 5% of what's there)_
 
 
 ## Overview
