@@ -1,5 +1,20 @@
 # The Ladders’ Object Calisthenics
 
+## My implementation (please review)
+
+Source in [[src]]
+
+Constructed using Scala (my first Scala project -- pointers appreciated!)
+
+
+Tests in [[test]] 
+
+Tested using Specs2 (also my first -- not using even 10% of it yet)
+
+
+Scaladoc in [[doc]]
+
+
 ## Overview
 
 The purpose of this calisthenics exercise is to familiarize you with problems from our business domain, while simultaneously getting you to think hard about how you’re programming and pushing you towards a better object-oriented style. First we’ll delve more deeply into the reasoning behind the rules you’ll be bound by during this exercise, and then explain the rules themselves. Finally, you’ll be given the business requirements for the exercise. You’re welcome to use any language you like, as long as it has object-oriented features. This includes, but isn’t limited to, languages such as Java, Javascript, Scala, Ruby, Groovy, Python, Smalltalk, C++, Self, and Common Lisp.
