@@ -1,8 +1,6 @@
 package job
 
-import list.{JobApplicationList, JobList}
-import java.util.Calendar
-import common.UnauthorizedException
+import list.JobList
 
 /**
  * Wraps a private JobList, exposing only desired behaviors as a trait (to JobSeeker and Recruiter)
